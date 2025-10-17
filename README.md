@@ -1,6 +1,6 @@
 # 八丁饰尾体 16/ BaDingShiWeiTi-16
 
-<img width="1280" height="960" alt="八丁饰尾体 16" src="https://github.com/user-attachments/assets/685bb196-e572-42b4-b964-e0c00cac04d5" />
+<img width="1280" height="960" alt="八丁饰尾体 16" src="https://github.com/user-attachments/assets/15d5c257-cece-4215-8f12-20fa6084365d" />
 
 ～项目概述～
 
