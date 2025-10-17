@@ -1,2 +1,35 @@
-# BaDingShiWeiTi-16
-A Chinese pixel font derived from KH Dot Hatcyoubori 16.
+# 八丁饰尾体 16/ BaDingShiWeiTi-16
+
+<img width="1280" height="960" alt="八丁饰尾体 16" src="https://github.com/user-attachments/assets/685bb196-e572-42b4-b964-e0c00cac04d5" />
+
+～项目概述～
+
+「八丁饰尾体 16」是基于「[KHドットフォントシリーズ](http://jikasei.me/font/kh-dotfont/)」中的「KHドット八丁堀16」增补简繁体汉字的 16px 点阵字体，适合在像素风格的游戏和具有科技感的招牌中作为装饰性字体使用。
+
+虽然原字体的类型描述为「隶书体」，不过在研究原字体汉字部分的风格之后，最终此项目决定使用「饰尾体」这个名字。
+
+目前本企划仍在锐意制作中，欢迎对本企划提出宝贵的意见。
+
+～预览图～
+
+预览图仍在制作中，请耐心等待_(:3」∠)
+
+～授权须知～
+
+原字体采用SIL Open Font License 1.1规约发表，本字体同样采用该规约。
+
+具体规约内容请查看OFL.txt。
+
+～特别感谢～
+
+原字体作者（敬称略）：平木敬太郎、自家製フォント工房
+
+提出修改意见的网友与群友
+
+以及使用这款字体的您！
+
+～联络作者～
+
+bilibili/Github/猫啃网：yzdnn
+
+QQ号：2035714850
