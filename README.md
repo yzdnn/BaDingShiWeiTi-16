@@ -3,7 +3,7 @@
 <img width="1280" height="960" alt="八丁饰尾体 16" src="https://github.com/user-attachments/assets/198d2f5d-1aa0-4a9c-be90-94b60db74407" />
 
 
-～项目概述～
+**～项目概述～**
 
 「八丁饰尾体 16」是基于「[KHドットフォントシリーズ](http://jikasei.me/font/kh-dotfont/)」中的「KHドット八丁堀16」增补简繁体汉字的 16px 点阵字体，适合在像素风格的游戏和具有科技感的招牌中作为装饰性字体使用。
 
@@ -11,25 +11,25 @@
 
 目前本企划仍在锐意制作中，欢迎对本企划提出宝贵的意见。
 
-～预览图～
+**～字体预览～**
 
-<img width="640" height="480" alt="preview" src="https://github.com/user-attachments/assets/5864bec6-2c98-4f91-bfd6-81af26a8e084" />
+<img width="640" height="480" alt="preview" src="https://github.com/user-attachments/assets/4348d5a2-d0cf-4758-b934-4507019a8f48" />
 
-～授权须知～
+**～授权须知～**
 
 原字体采用SIL Open Font License 1.1规约发表，本字体同样采用该规约。
 
 具体规约内容请查看OFL.txt。
 
-～特别感谢～
+**～特别感谢～**
 
 原字体作者（敬称略）：平木敬太郎、自家製フォント工房
 
-提出修改意见的网友与群友
+提出修改意见的各位网友与群友
 
 以及使用这款字体的您！
 
-～联络作者～
+**～联络作者～**
 
 bilibili/Github/猫啃网：yzdnn
 
