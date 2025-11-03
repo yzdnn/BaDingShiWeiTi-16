@@ -15,6 +15,14 @@
 
 <img width="640" height="480" alt="preview" src="https://github.com/user-attachments/assets/4348d5a2-d0cf-4758-b934-4507019a8f48" />
 
+**～缺字、错字反馈～**
+
+“帮帮我！我用了这个字体，但里面没有我需要的字，或者错误地显示成了别的字”
+
+　　 ↑
+
+出现这种情况的时候，请在[这里](https://github.com/yzdnn/BaDingShiWeiTi-16/issues/1)反馈，我会尽快处理。
+
 **～授权须知～**
 
 原字体采用SIL Open Font License 1.1规约发表，本字体同样采用该规约。
